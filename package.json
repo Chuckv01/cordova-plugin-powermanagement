@@ -1,1 +1,22 @@
-
+{
+  "author": {
+    "name": "Charles Vanderhoff"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chuckv01/cordova-plugin-powermanagement"
+  },
+  "name": "at.gofg.sportscomputer.powermanagement",
+  "version": "0.1.20",
+  "description": "Cordova plugin for power management.",
+  "cordova": {
+    "id": "at.gofg.sportscomputer.powermanagement",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "keywords": []
+}
